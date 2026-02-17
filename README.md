@@ -1,8 +1,8 @@
-# amplitudes-sr
+# Amplitudes and Symbolic Regression
 
-Code for data-driven rediscovery of amplitude structure (KK/BCJ/KLT) using CPQR feature selection and symbolic regression.
+Code for data-driven rediscovery of the KLT relations using CPQR feature selection and symbolic regression.
 
-This repository accompanies the paper "Learning the S-matrix from data: Rediscovering gravity from gauge theory via symbolic regression". The scripts here implement the computational pipeline discussed there, in particular the 5-point KLT experiments and Mandelstam rank analysis.
+This repository loosely accompanies the paper "Learning the S-matrix from data: Rediscovering gravity from gauge theory via symbolic regression". The scripts here implement the computational pipeline discussed there, in particular the 5-point KLT experiments and Mandelstam rank analysis.
 
 ## What is included
 
